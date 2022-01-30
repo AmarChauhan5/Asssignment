@@ -1,0 +1,13 @@
+
+.bg_two{
+  background-color: rgba(235, 235, 226, 0.356);
+}
+.bg_two:hover{
+  background-color: rgba(235, 235, 226, 0.877);
+}
+.head{
+  background-color: rgba(0, 0, 0, 0.692);
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+}
